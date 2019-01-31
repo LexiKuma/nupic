@@ -11,3 +11,8 @@ pip install mysql-connector-python
 
 - test mysql connection
 python $NUPIC/nupic/examples/swarm/test_db.py
+
+
+Microsoft Visual C++ Compiler for Python 2.7
+https://www.microsoft.com/en-us/download/details.aspx?id=44266
+
